@@ -14,6 +14,7 @@
 	<license>http://www.gnu.org/licenses/gpl-2.0.html GNU/GPL</license>
 	<authorEmail>alvin_gi@hotmail.com</authorEmail>
 	<authorUrl>https://github.com/alvinalvin</authorUrl>
+	<description>plugin whatsappags</description>
 	<version>1.0.0</version>
   <files>
 		<filename plugin="whatsappags">whatsappags.php</filename>
