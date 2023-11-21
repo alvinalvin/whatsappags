@@ -7,7 +7,7 @@
 ### Installation and use
 
 <ul>
-<li>Install Joomla! module using the extensions manager.</li>
+<li>Install Joomla! plugin using the extensions manager.</li>
 </ul>
 
 ![](https://github.com/alvinalvin/holamundo/blob/4d66fb03376df76ea5f4c30825d7b59a66f186e5/imgg.jpg)
