@@ -22,12 +22,6 @@
 		<filename>whatsappags.xml</filename>
 		<folder>assets</folder>
 	</files>
-
-	<!-- <languages>
-		<language tag="en-GB">en-GB.plg_system_whatsappags.ini</language>
-		<language tag="en-GB">en-GB.plg_system_whatsappags.sys.ini</language>
-	</languages> -->
-
 	<config>
 		<fields name="params">
 			<fieldset name="basic">
@@ -48,4 +42,7 @@
 			</fieldset>
 		</fields>
 	</config>
+	<updateservers>
+	  <server type="extension" name="whatsappags">https://alvinalvin.github.io/updateserver.github.io/whatsapp.xml</server>
+ </updateservers>
 </extension>
