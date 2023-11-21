@@ -15,3 +15,27 @@
 <ul>
 <li>Look for the extensions manager and go to the plugin.</li>
 </ul>
+
+![](https://github.com/alvinalvin/holamundo/blob/ff8684dfcaece9276afdeddf8e408abdd9786cd0/complemen.jpg)
+
+<ul>
+<li>configure the plugin.</li>
+</ul>
+
+![](https://github.com/alvinalvin/holamundo/blob/90eee897b191705bb058fa5b983916bfb2c96b03/config.jpg)
+# Change Log
+
+## Version [1.0.0] - 2023-11-20
+
+<ul>
+<li>Adding plugin for Joomla in its first version</li>
+</ul>
+
+# Donate
+<a title="" href="https://www.paypal.com/donate/?hosted_button_id=B7YYDKUTNU8PS"><img src="https://github.com/alvinalvin/holamundo/blob/1dce12abea45d82ecbce3423f7ecdeb3e5f275a5/PayPal-Donate-Button-PNG.png" alt="" /></a>
+
+
+
+### License and Copyright
+
+This plugin is a open software and has the GNU LESSER GENERAL PUBLIC license. Copyright (C) 2023 Alvin Gil Saldaña All rights reserved.
