@@ -11,3 +11,7 @@
 </ul>
 
 ![](https://github.com/alvinalvin/holamundo/blob/4d66fb03376df76ea5f4c30825d7b59a66f186e5/imgg.jpg)
+
+<ul>
+<li>Look for the extensions manager and go to the plugin.</li>
+</ul>
