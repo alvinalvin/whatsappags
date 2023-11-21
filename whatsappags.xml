@@ -7,8 +7,8 @@
  */
 -->
 <extension type="plugin" version="3.0" group="system" method="upgrade">
-	<name>plg_system_whatsappags</name>
-	<author></author>
+	<name>System - whatsappags</name>
+	<author>Alvin Gil Saldaña</author>
 	<creationDate>November 2023</creationDate>
 	<copyright>Copyright (c) 2023 . All rights reserved.</copyright>
 	<license>http://www.gnu.org/licenses/gpl-2.0.html GNU/GPL</license>
