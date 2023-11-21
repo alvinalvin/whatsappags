@@ -22,10 +22,10 @@
 		<folder>assets</folder>
 	</files>
 
-	<languages>
+	<!-- <languages>
 		<language tag="en-GB">en-GB.plg_system_whatsappags.ini</language>
 		<language tag="en-GB">en-GB.plg_system_whatsappags.sys.ini</language>
-	</languages>
+	</languages> -->
 
 	<config>
 		<fields name="params">
